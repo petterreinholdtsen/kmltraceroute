@@ -2,7 +2,7 @@ kmltraceroute
 =============
 
 Tool to create geo-referenced TCP traceroutes in KML format for
-visualization on a map/globe.
+visualization on a map/globe.  It can only handle IPv4 routes.
 
 It uses GeoIP for geolocalization of IP data.  The GeoLiteCity.dat
 file can be downloaded from
