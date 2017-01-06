@@ -124,6 +124,25 @@ footer() {
 FOOTER
 }
 
+usage() {
+    cat <<EOF
+Usage: $0 <host> [<host> ...]
+
+Collect TCP traceroutes using 'sudo tcptraceroute' and up each route
+using GeoIP and output a KML file to stdout with the georeferenced
+traces.
+
+The traceoutes are cached in ./cache/, and the GeoIP location data can
+be replaced with entires in GeoIP-override.txt.
+
+EOF
+    }
+
+if [ -z "$1" ]; then
+    usage
+    exit 1
+fi
+
 header
 for h in "$@" ; do
     # Trace all locations if host have many IP addresses
