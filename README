@@ -11,10 +11,20 @@ file can be downloaded from
 KML files can be viewed using <URL: http://ivanrublev.me/kml/ >,
 OpenLayers, Google Earth and other tools.
 
+Note, the geolocation of IP addresses is notoriously hard, as it
+change over time and server hosting can be dynamic and change without
+any visual changes to the network addresses.  In other words, take the
+resulting KML file with a grain of salt..
+
 Dependencies (Debian package names in []):
 
   geoip [geoip-bin], tcptraceroute [tcptraceroute], host [bind9-host],
   sudo [sudo]
 
 The latest version of this system can be fetched from
-<URL: >.
+<URL: https://github.com/petterreinholdtsen/kmltraceroute >.
+
+This project was inspired by
+<URL: http://www.kahunaburger.com/2009/03/28/google-earth-as-a-traceroute-viewer/ >,
+nsttraceroute from <URL: http://www.networksecuritytoolkit.org/ > my
+earlier work on traceroute graphing.
