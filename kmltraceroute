@@ -3,14 +3,14 @@
 # Copyright: 2017 Petter Reinholdtsen
 #            2017 Anders Einar Hilden
 #
-# 
+#
 # This is free and unencumbered software released into the public domain.
-# 
+#
 # Anyone is free to copy, modify, publish, use, compile, sell, or
 # distribute this software, either in source code form or as a compiled
 # binary, for any purpose, commercial or non-commercial, and by any
 # means.
-# 
+#
 # In jurisdictions that recognize copyright laws, the author or authors
 # of this software dedicate any and all copyright interest in the
 # software to the public domain. We make this dedication for the benefit
@@ -18,7 +18,7 @@
 # successors. We intend this dedication to be an overt act of
 # relinquishment in perpetuity of all present and future rights to this
 # software under copyright law.
-# 
+#
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 # EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 # MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -26,9 +26,11 @@
 # OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 # OTHER DEALINGS IN THE SOFTWARE.
-# 
+#
 # For more information, please refer to <http://unlicense.org/>
-# 
+#
+
+cachedir=cache
 
 header() {
     cat <<HEADER
@@ -38,26 +40,81 @@ header() {
 HEADER
 }
 
+gettraceroute4() {
+    storename="$cachedir/tcptraceroute-$1"
+    tmpname="$storename-$$.new"
+    if [ -s "$storename" ] ; then
+	cat "$storename"
+    else
+	sudo tcptraceroute -n $1 | tee "$tmpname"
+    fi |
+	tail -n +2 |
+	sed 's/\* //g' |
+	awk '{print $2}' |
+	grep -E '^([0-9]{1,3}[\.]){3}[0-9]{1,3}$'
+    if [ -s "$tmpname" ] ; then
+	mv "$tmpname" "$storename"
+    fi
+}
+
+getIP4location() {
+    if [ -e GeoIP-override.txt ] ; then
+	C="$(grep "^$IP " GeoIP-override.txt | cut -d"#" -f1)"
+    fi
+    if [ -z "$C" ] && [ -e "$cachedir/GeoIP-cache.txt" ] ; then
+	C="$(grep "^$IP " "$cachedir/GeoIP-cache.txt")"
+    fi
+    if [ "$C" ]; then
+	LONG=$(echo "$C" |cut -d" " -f2)
+	LAT=$(echo "$C" |cut -d" " -f3)
+	return
+    fi
+    # Remove very inaccurate info
+    GEOIP=$(geoiplookup -f GeoLiteCity.dat $IP);
+    LONG=
+    LAT=
+    if [ "$GEOIP" ] && [ "$(echo "$GEOIP" | grep -q "IP Address not found"; echo $?;)" != "0" ]; then
+	LONG=$(echo "$GEOIP" | cut -d, -f 8)
+	LAT=$(echo "$GEOIP" | cut -d, -f 7)
+	echo $IP $LONG $LAT >> "$cachedir/GeoIP-cache.txt"
+    fi
+}
+
 tracehost() {
     targetip="$1"
     targetname="$2"
     LONGLATS=""
-    for IP in $(sudo tcptraceroute -n $targetip | tail -n +2 | awk '{print $2}' | grep -E '^([0-9]{1,3}[\.]){3}[0-9]{1,3}$'); do 
-#sudo tcptraceroute -n $targetip | tail -n +2 | awk '{print $2}' | while read IP; do
-	GEOIP=$(geoiplookup -f GeoLiteCity.dat $IP);
-	if [ "$(echo "$GEOIP" | grep -q "IP Address not found"; echo $?;)" != "0" ]; then
-	    LONG=$(echo "$GEOIP" | cut -d, -f 8)
-	    LAT=$(echo "$GEOIP" | cut -d, -f 7)
-	    LONGLAT="${LONG},${LAT}"
+    targetreverse=$(getent hosts "$targetip"|awk '{print $2}')
+    echo "<!-- traceroute for $targetname / $targetreverse [$targetip] -->"
+    for IP in $(gettraceroute4 "$targetip"); do
+	getIP4location "$IP"
+	name=$(getent hosts "$IP" | awk '{print $2}')
+	if [ "$LONG" ] ; then
+	    LONGLAT="${LONG},${LAT} "
 	    LONGLATS="${LONGLATS}${LONGLAT}\n"
-            echo "<Placemark><name>$IP</name><description>GeoIP position for $IP</description><Point><coordinates>$LONGLAT</coordinates></Point></Placemark>";
+	    if [ "$targetip" = "$IP" ]; then
+		labelname="$targetname"
+	    else
+		labelname=""
+	    fi
+            cat <<EOF
+<Placemark>
+  <name>$labelname</name>
+  <description>GeoIP position for $name [$IP]</description>
+  <Point><coordinates>$LONGLAT</coordinates></Point>
+</Placemark>"
+EOF
+	else
+	    echo "<!-- missing GeoIP info for $name [$IP] -->"
 	fi
     done;
 
-    echo "<Placemark><name>Path</name><LineString><coordinates>";
+    echo "<Placemark><name>Path for $targetname / $targetreverse [$targetip]</name><LineString>"
+    echo "  <coordinates>"
     #echo -e "${LONGLATS::-2}"
     echo -e "$LONGLATS"
-    echo "</coordinates></LineString></Placemark>";
+    echo "  </coordinates></LineString></Placemark>"
+    echo
 }
 
 footer() {
