@@ -1,0 +1,8 @@
+ajax.googleapis.com
+insights.hotjar.com
+script.hotjar.com
+static.hotjar.com
+stats.g.doubleclick.net
+stortinget.no
+www.google-analytics.com
+www.googletagmanager.com

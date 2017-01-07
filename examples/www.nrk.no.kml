@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+<!-- traceroute for gfx.nrk.no / gfx.nrk.no [160.68.205.252] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae6.no-323-rt1.get.no [193.156.90.18]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [193.156.90.50]</description>
+  <Point><coordinates> 10.750000, 59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>gfx.nrk.no</name>
+  <description>GeoIP position for gfx.nrk.no [160.68.205.252]</description>
+  <Point><coordinates> 10.750000, 59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for gfx.nrk.no / gfx.nrk.no [160.68.205.252]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+ 10.750000, 59.950001 
+ 10.750000, 59.950001 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for js.pusher.com /  [23.111.9.14] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [4.68.72.25]</description>
+  <Point><coordinates>-97.821999,37.750999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for as3356-1.fra.as54104.net [212.162.19.102]</description>
+  <Point><coordinates>-0.122400,51.496399 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>js.pusher.com</name>
+  <description>GeoIP position for  [23.111.9.14]</description>
+  <Point><coordinates> -111.951897, 33.674801 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for js.pusher.com /  [23.111.9.14]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+-97.821999,37.750999 
+-0.122400,51.496399 
+ -111.951897, 33.674801 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.172.121.76.144.clients.your-server.de [144.76.121.172] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core4.hetzner.de [213.239.245.2]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core23.hetzner.de [213.239.229.74]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz17.hetzner.de [213.239.203.230]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.172.121.76.144.clients.your-server.de [144.76.121.172]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.172.121.76.144.clients.your-server.de [144.76.121.172]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.12.67.9.176.clients.your-server.de [176.9.67.12] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core4.hetzner.de [213.239.245.2]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core24.hetzner.de [213.239.203.150]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz17.hetzner.de [213.239.203.234]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.12.67.9.176.clients.your-server.de [176.9.67.12]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.12.67.9.176.clients.your-server.de [176.9.67.12]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.70.25.243.136.clients.your-server.de [136.243.25.70] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core4.hetzner.de [213.239.245.2]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core24.hetzner.de [213.239.203.150]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz21.hetzner.de [213.239.203.186]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.70.25.243.136.clients.your-server.de [136.243.25.70]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.70.25.243.136.clients.your-server.de [136.243.25.70]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.174.95.243.136.clients.your-server.de [136.243.95.174] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core1.hetzner.de [213.239.245.9]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core21.hetzner.de [213.239.245.217]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz10.hetzner.de [213.239.245.230]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.174.95.243.136.clients.your-server.de [136.243.95.174]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.174.95.243.136.clients.your-server.de [136.243.95.174]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.176.95.243.136.clients.your-server.de [136.243.95.176] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core1.hetzner.de [213.239.245.9]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core24.hetzner.de [213.239.229.78]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz17.hetzner.de [213.239.203.234]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.176.95.243.136.clients.your-server.de [136.243.95.176]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.176.95.243.136.clients.your-server.de [136.243.95.176]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for p.lp4.io / static.79.249.243.136.clients.your-server.de [136.243.249.79] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.stkm4nqp7.se.ip.tdc.net [83.88.19.37]</description>
+  <Point><coordinates>18.068611,59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-406.sth10.core-backbone.com [81.95.2.89]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-2021.fra20.core-backbone.com [80.255.14.6]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core-backbone-100g-fra.hetzner.de [80.255.15.122]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core4.hetzner.de [213.239.245.2]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for core24.hetzner.de [213.239.203.150]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ex9k1.rz21.hetzner.de [213.239.203.186]</description>
+  <Point><coordinates>9.491000,51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>p.lp4.io</name>
+  <description>GeoIP position for static.79.249.243.136.clients.your-server.de [136.243.249.79]</description>
+  <Point><coordinates> 9.491000, 51.299301 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for p.lp4.io / static.79.249.243.136.clients.your-server.de [136.243.249.79]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611,59.329444 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+9.491000,51.299301 
+ 9.491000, 51.299301 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-54-225-95-177.compute-1.amazonaws.com [54.225.95.177] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates> 10.388300, 55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.109.13]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [205.251.245.47]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-54-225-95-177.compute-1.amazonaws.com [54.225.95.177]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-54-225-95-177.compute-1.amazonaws.com [54.225.95.177]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+ 10.388300, 55.395901 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-23-21-73-93.compute-1.amazonaws.com [23.21.73.93] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.108.201]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [205.251.245.250]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-23-21-73-93.compute-1.amazonaws.com [23.21.73.93]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-23-21-73-93.compute-1.amazonaws.com [23.21.73.93]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-23-21-84-138.compute-1.amazonaws.com [23.21.84.138] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.110.137]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.108.201]</description>
+  <Point><coordinates>-77.472801,39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [205.251.245.250]</description>
+  <Point><coordinates>-77.472801,39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-23-21-84-138.compute-1.amazonaws.com [23.21.84.138]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-23-21-84-138.compute-1.amazonaws.com [23.21.84.138]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+-77.472801,39.048100 
+-77.472801,39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-23-21-110-210.compute-1.amazonaws.com [23.21.110.210] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.109.47]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [205.251.245.244]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-23-21-110-210.compute-1.amazonaws.com [23.21.110.210]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-23-21-110-210.compute-1.amazonaws.com [23.21.110.210]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-23-21-240-237.compute-1.amazonaws.com [23.21.240.237] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.108.65]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [205.251.245.244]</description>
+  <Point><coordinates>-77.472801,39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-23-21-240-237.compute-1.amazonaws.com [23.21.240.237]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-23-21-240-237.compute-1.amazonaws.com [23.21.240.237]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+-77.472801,39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-23-23-141-187.compute-1.amazonaws.com [23.23.141.187] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-23-23-141-187.compute-1.amazonaws.com [23.23.141.187]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-23-23-141-187.compute-1.amazonaws.com [23.23.141.187]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-50-17-197-15.compute-1.amazonaws.com [50.17.197.15] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.111.35]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-50-17-197-15.compute-1.amazonaws.com [50.17.197.15]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-50-17-197-15.compute-1.amazonaws.com [50.17.197.15]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ping.chartbeat.net / ec2-50-17-216-242.compute-1.amazonaws.com [50.17.216.242] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.108.235]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ping.chartbeat.net</name>
+  <description>GeoIP position for ec2-50-17-216-242.compute-1.amazonaws.com [50.17.216.242]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ping.chartbeat.net / ec2-50-17-216-242.compute-1.amazonaws.com [50.17.216.242]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for snutt.nrk.no / snutt.nrk.no [160.68.117.70] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae6.no-323-rt1.get.no [193.156.90.18]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [193.156.90.50]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>snutt.nrk.no</name>
+  <description>GeoIP position for snutt.nrk.no [160.68.117.70]</description>
+  <Point><coordinates> 10.750000, 59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for snutt.nrk.no / snutt.nrk.no [160.68.117.70]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.750000,59.950001 
+ 10.750000, 59.950001 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ssl-nrk.tns-cs.net / 2.3d.9905.ip4.static.sl-reverse.com [5.153.61.2] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae9-0.ffm2nqp1.de.ip.tdc.net [83.88.19.213]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for bbr01.xn01.fra01.networklayer.com [80.81.194.167]</description>
+  <Point><coordinates>8.683300,50.116699 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7.bbr02.xn01.fra01.networklayer.com [50.97.18.219]</description>
+  <Point><coordinates>-122.332100,47.606201 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae1.bbr01.eq01.ams02.networklayer.com [50.97.18.216]</description>
+  <Point><coordinates>-122.332100,47.606201 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae5.dar01.sr01.ams01.networklayer.com [50.97.18.237]</description>
+  <Point><coordinates> -122.332100, 47.606201 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for po1.fcr02.ams01.networklayer.com [159.253.158.149]</description>
+  <Point><coordinates> 4.916700, 52.349998 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ssl-nrk.tns-cs.net</name>
+  <description>GeoIP position for 2.3d.9905.ip4.static.sl-reverse.com [5.153.61.2]</description>
+  <Point><coordinates> 4.916700, 52.349998 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ssl-nrk.tns-cs.net / 2.3d.9905.ip4.static.sl-reverse.com [5.153.61.2]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+8.683300,50.116699 
+-122.332100,47.606201 
+-122.332100,47.606201 
+ -122.332100, 47.606201 
+ 4.916700, 52.349998 
+ 4.916700, 52.349998 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ssl-nrk.tns-cs.net /  [77.88.106.123] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.26.65.getinternet.no [84.208.26.65]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.26.66.getinternet.no [84.208.26.66]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ten-7-2-vl1504.ooe121-060.as41572.net [81.175.32.225]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for po5-vl3008.ocjha2-060.as41572.net [81.175.32.118]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [77.88.121.203]</description>
+  <Point><coordinates> 10.750000, 59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ssl-nrk.tns-cs.net</name>
+  <description>GeoIP position for  [77.88.106.123]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ssl-nrk.tns-cs.net /  [77.88.106.123]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+ 10.748700, 59.904999 
+ 10.748700, 59.904999 
+ 10.748700, 59.904999 
+ 10.748700, 59.904999 
+ 10.750000, 59.950001 
+ 10.748700, 59.904999 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ssl-nrk.tns-cs.net /  [77.88.106.124] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.26.65.getinternet.no [84.208.26.65]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.26.66.getinternet.no [84.208.26.66]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ten-7-2-vl1504.ooe121-060.as41572.net [81.175.32.225]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for po5-vl3008.ocjha2-060.as41572.net [81.175.32.118]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [77.88.121.203]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ssl-nrk.tns-cs.net</name>
+  <description>GeoIP position for  [77.88.106.124]</description>
+  <Point><coordinates> 10.748700, 59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ssl-nrk.tns-cs.net /  [77.88.106.124]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.748700,59.904999 
+10.748700,59.904999 
+10.748700,59.904999 
+10.748700,59.904999 
+10.750000,59.950001 
+ 10.748700, 59.904999 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for ssl.google-analytics.com / arn09s10-in-f8.1e100.net [216.58.211.136] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.48.getinternet.no [84.208.41.48]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt1.get.no [80.232.88.47]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.san-peer2.osl.no.ip.tdc.net [80.232.88.46]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae1-0.kst-peer1.sto.se.ip.tdc.net [62.95.54.122]</description>
+  <Point><coordinates>18.068611
+18.068611,59.329444
+59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as15169.kst-peer1.sto.se.ip.tdc.net [88.131.152.10]</description>
+  <Point><coordinates>18.068611
+18.068611,59.329444
+59.329444 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [209.85.244.247]</description>
+  <Point><coordinates>-97.821999,37.750999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [108.170.235.63]</description>
+  <Point><coordinates>-122.057404,37.419201 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>ssl.google-analytics.com</name>
+  <description>GeoIP position for arn09s10-in-f136.1e100.net [216.58.211.136]</description>
+  <Point><coordinates>-122.057404,37.419201 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for ssl.google-analytics.com / arn09s10-in-f8.1e100.net [216.58.211.136]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.068611
+18.068611,59.329444
+59.329444 
+18.068611
+18.068611,59.329444
+59.329444 
+-97.821999,37.750999 
+-122.057404,37.419201 
+-122.057404,37.419201 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for static.chartbeat.com /  [151.101.84.249] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae1-0.stkm3nqp7.se.ip.tdc.net [83.88.19.33]</description>
+  <Point><coordinates> 12.056400, 55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [199.27.73.92]</description>
+  <Point><coordinates> -122.393303, 37.769699 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>static.chartbeat.com</name>
+  <description>GeoIP position for  [151.101.84.249]</description>
+  <Point><coordinates> -122.393303, 37.769699 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for static.chartbeat.com /  [151.101.84.249]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+ 12.056400, 55.712299 
+ -122.393303, 37.769699 
+ -122.393303, 37.769699 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for stats.pusher.com / ec2-52-90-66-160.compute-1.amazonaws.com [52.90.66.160] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.ashbnqp2.us.ip.tdc.net [83.88.15.205]</description>
+  <Point><coordinates>12.056400,55.712299 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for peer-as16509.ashbnqp2.us.ip.tdc.net [195.215.109.115]</description>
+  <Point><coordinates>10.388300,55.395901 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [54.239.108.167]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>stats.pusher.com</name>
+  <description>GeoIP position for ec2-52-90-66-160.compute-1.amazonaws.com [52.90.66.160]</description>
+  <Point><coordinates> -77.472801, 39.048100 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for stats.pusher.com / ec2-52-90-66-160.compute-1.amazonaws.com [52.90.66.160]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+12.056400,55.712299 
+10.388300,55.395901 
+ -77.472801, 39.048100 
+ -77.472801, 39.048100 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for tv.nrk.no /  [23.102.51.231] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.tg4-peer1.sto.se.ip.tdc.net [88.131.143.67]</description>
+  <Point><coordinates>18.056000,59.324699 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.sto-96cbe-1a.ntwk.msn.net [198.200.130.34]</description>
+  <Point><coordinates>-97.821999,37.750999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae1-0.sto-96cbe-1b.ntwk.msn.net [104.44.225.161]</description>
+  <Point><coordinates> -122.120598, 47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for be-8-0.ibr01.ams.ntwk.msn.net [104.44.5.7]</description>
+  <Point><coordinates>-122.120598,47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for be-6-0.ibr01.dub30.ntwk.msn.net [104.44.4.142]</description>
+  <Point><coordinates>-122.120598,47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae2-0.db3-96c-3b.ntwk.msn.net [204.152.141.81]</description>
+  <Point><coordinates> -97.821999, 37.750999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>tv.nrk.no</name>
+  <description>GeoIP position for  [23.102.51.231]</description>
+  <Point><coordinates> -6.259500, 53.338902 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for tv.nrk.no /  [23.102.51.231]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.056000,59.324699 
+-97.821999,37.750999 
+ -122.120598, 47.680099 
+-122.120598,47.680099 
+-122.120598,47.680099 
+ -97.821999, 37.750999 
+ -6.259500, 53.338902 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for v8-psapi.nrk.no /  [104.45.12.238] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.no-323-rt2.get.no [80.232.88.45]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae10-0.prg-peer2.osl.no.ip.tdc.net [80.232.88.44]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae0-0.tg4-peer1.sto.se.ip.tdc.net [88.131.143.67]</description>
+  <Point><coordinates>18.056000,59.324699 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae7-0.sto-96cbe-1a.ntwk.msn.net [198.200.130.34]</description>
+  <Point><coordinates>-97.821999,37.750999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae1-0.sto-96cbe-1b.ntwk.msn.net [104.44.225.161]</description>
+  <Point><coordinates>-122.120598,47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for be-8-0.ibr01.ams.ntwk.msn.net [104.44.5.7]</description>
+  <Point><coordinates>-122.120598,47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae63-0.am3-96c-1a.ntwk.msn.net [104.44.5.1]</description>
+  <Point><coordinates> -122.120598, 47.680099 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>v8-psapi.nrk.no</name>
+  <description>GeoIP position for  [104.45.12.238]</description>
+  <Point><coordinates> 4.916700, 52.349998 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for v8-psapi.nrk.no /  [104.45.12.238]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.748700,59.904999 
+18.056000,59.324699 
+-97.821999,37.750999 
+-122.120598,47.680099 
+-122.120598,47.680099 
+ -122.120598, 47.680099 
+ 4.916700, 52.349998 
+
+  </coordinates></LineString></Placemark>
+
+<!-- traceroute for www.nrk.no / nrk.no [160.68.205.231] -->
+<!-- missing GeoIP info for  [10.231.128.1] -->
+<Placemark>
+  <name></name>
+  <description>GeoIP position for cm-84.208.41.50.getinternet.no [84.208.41.50]</description>
+  <Point><coordinates>10.748700,59.904999 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for ae6.no-323-rt2.get.no [193.156.90.70]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name></name>
+  <description>GeoIP position for  [193.156.90.50]</description>
+  <Point><coordinates>10.750000,59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark>
+  <name>www.nrk.no</name>
+  <description>GeoIP position for nrk.no [160.68.205.231]</description>
+  <Point><coordinates> 10.750000, 59.950001 </coordinates></Point>
+</Placemark>"
+<Placemark><name>Path for www.nrk.no / nrk.no [160.68.205.231]</name><LineString>
+  <coordinates>
+10.748700,59.904999 
+10.750000,59.950001 
+10.750000,59.950001 
+ 10.750000, 59.950001 
+
+  </coordinates></LineString></Placemark>
+
+  </Document>
+</kml>

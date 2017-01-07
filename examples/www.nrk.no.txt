@@ -1,0 +1,12 @@
+gfx.nrk.no
+js.pusher.com
+p.lp4.io
+ping.chartbeat.net
+snutt.nrk.no
+ssl-nrk.tns-cs.net
+ssl.google-analytics.com
+static.chartbeat.com
+stats.pusher.com
+tv.nrk.no
+v8-psapi.nrk.no
+www.nrk.no
