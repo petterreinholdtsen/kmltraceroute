@@ -19,7 +19,7 @@ def main():
     print args.host
     print args.output
     
-    res,unans = traceroute(args.host,dport=[80,443],maxttl=20,retry=-2)
+    res,unans = traceroute(args.host,dport=[80,443],maxttl=30,retry=-2)
     res.graph(target="> %s" % args.output)
 
 if __name__ == '__main__':
